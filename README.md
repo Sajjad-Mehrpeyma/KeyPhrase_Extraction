@@ -17,7 +17,7 @@
 ### 🧹 TF-IDF Cleaning Experiments
 | Remove Duplicate Mix Ones V3 | With Named Entities | Final TF-IDF Ngrams (1,5) | Without Fixing Ngrams |
 |-------------------------------|--------------------|----------------------------|------------------------|
-| ![Remove Duplicates](Gallery/TF_IDF_chunking_remove_duplicate_mix_ones_V3.png) | ![With NE](Gallery/With_NE.png) | ![Final Ngrams](Gallery/final_tfidf_ngrams(1, 5).png) | ![Without Fixing](Gallery/without_fixing_ngrams.png) |
+| ![Remove Duplicates](Gallery/TF_IDF_chunking_remove_duplicate_mix_ones_V3.png) | ![With NE](Gallery/With_NE.png) | ![Final Ngrams](Gallery/final_tfidf_ngrams_1_5.png) | ![Without Fixing](Gallery/without_fixing_ngrams.png) |
 
 ---
 
